@@ -5,3 +5,4 @@ java/*/*/setting.gradle
 java/*/*/.idea                                                                  
 java/*/*/.gradle
 java/*/*/settings.gradle
+java/*/*/build
